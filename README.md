@@ -4,6 +4,21 @@
  <p>Api Seeker began its development on January 22, 2025, and is currently in an early stage. While the application is not yet feature-complete, it is undergoing continuous evolution, with planned updates to integrate new functionalities, enhance performance, and align with industry best practices and security standards for API penetration testing.</p>
 </p>
 
+> [!NOTE]
+> This application is still in development, please wait for new versions, and if you can contribute to the project, more than welcome.
+
+Api Seeker es una aplicación de código abierto diseñada para verificar vulnerabilidades en APIs y generar informes detallados sobre los posibles riesgos de seguridad.
+<div align="center">
+
+<img src="https://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=RED&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?label=LICENSE&message=OPENSOURCE&color=RED&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?label=AUTHOR&message=KRYPTON-BYTES&color=RED&style=for-the-badge"/>
+
+
+![Contributors](https://img.shields.io/github/contributors/krypton-bytes/Api-Seeker?style=flat-square)
+
+</div>
+
 # Repository :floppy_disk: 
 Remember to clone the project code:
 ```bash
@@ -21,6 +36,11 @@ git push
 Prior to installation you must have `python 3.13.2`
 
 [![Lenguage](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+Upcoming integrations `framework Django` and `IA TensorFlow`
+
+[![Framework](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![IA](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 
 # Installation :package:
 The project depends on two libraries which are:
@@ -62,8 +82,7 @@ At the end of the scan, it will ask you if you want to generate a report in PDF 
 ```
 
 # Authors :busts_in_silhouette:
-- [@krypton-bytes](https://github.com/krypton-bytes)
-
+[<img src="https://avatars.githubusercontent.com/u/65739431?v=4" width=100><br><sub>FERNANDO MEJIA</sub>](https://github.com/krypton-bytes)
 # Contributing :wrench: 
 
 Contributions are always welcome!
@@ -71,6 +90,9 @@ Contributions are always welcome!
 See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
+
+> [!NOTE]
+> Review the project contribution code of conduct
 
 # Remember to say thank you :heart:
 
